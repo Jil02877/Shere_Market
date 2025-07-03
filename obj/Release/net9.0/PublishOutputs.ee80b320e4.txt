@@ -1,0 +1,54 @@
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Shere Market.exe
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\appsettings.Development.json
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\appsettings.json
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Shere Market.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Shere Market.deps.json
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Shere Market.runtimeconfig.json
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Shere Market.pdb
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Azure.Core.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Azure.Identity.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.Bcl.Cryptography.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.Data.SqlClient.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.Extensions.Caching.Abstractions.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.Extensions.Caching.Memory.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.Extensions.Options.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.Extensions.Primitives.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.Identity.Client.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.IdentityModel.Abstractions.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.IdentityModel.Logging.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.IdentityModel.Protocols.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\Microsoft.SqlServer.Server.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\System.ClientModel.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\System.Configuration.ConfigurationManager.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\System.Diagnostics.EventLog.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\System.Memory.Data.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\System.Security.Cryptography.Pkcs.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\cs\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\de\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\es\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\fr\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\it\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\ja\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\ko\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\pl\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\ru\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\tr\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\dotnet\Shere Market\bin\Release\net9.0\publish\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
