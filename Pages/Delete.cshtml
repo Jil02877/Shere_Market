@@ -1,0 +1,26 @@
+@page
+@model Shere_Market.Pages.Delete
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+
+<div class="mx-auto rounded border p-4" style="width: 400px;">
+    <h2 class="text-center mb-3">Delete Customer</h2>
+    <hr />
+    <p>Are you sure you want to Delete this customer?</p>
+    <p>Customer ID=(@Request.Query["Id"])</p>
+    <hr />
+    <form method="post">
+        <div class="row">
+            <div class="col-sm-6 d-grid">
+                <button type="submit" class="btn btn-danger">Delete</button>
+            </div>
+            <div class="col-sm-6 d-grid">
+                <a class="btn btn-outline-danger" href="/Index">Cancel</a>
+            </div>
+        </div>
+    </form>
+</div>

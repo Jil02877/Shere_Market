@@ -1,0 +1,67 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="mb-0">List of Shares</h2>
+        <a class="btn btn-success" href="/Create">+ New Data</a>
+    </div>
+
+    <form method="post" class="row g-2 mb-4">
+        <div class="col-md-8">
+            <input name="SearchPhrase" class="form-control" placeholder="Search by First Name" />
+        </div>
+        <div class="col-md-4">
+            <select name="TradeTypeFilter" class="form-control">
+                <option value="">-- All Trades --</option>
+                <option value="Buy">Buy</option>
+                <option value="Sell">Sell</option>
+            </select>
+        </div>
+        <div class="col-md-4">
+            <button type="submit" class="btn btn-primary w-100">Search</button>
+        </div>
+    </form>
+
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Quantity</th>
+                <th>Brokerage</th>
+                <th>Price</th>
+                <th>Balance</th>
+                <th>Trade Type</th>
+                <th>Created At</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var customer in Model.SharesToDiaplay)
+            {
+                <tr>
+                    <td>@customer.id</td>
+                    <td>@customer.name</td>
+                    <td>@customer.quantity</td>
+                    <td>@customer.brokerage</td>
+                    <td>@customer.price</td>
+                    <td>@customer.balance</td>
+                    <td>@customer.tradeType</td>
+                    <td>@customer.createdAt</td>
+                    <td>
+                        <div class="btn-group" role="group">
+                            @* One way write routes *@
+                            <a class="btn btn-sm btn-outline-primary" asp-page="/Edit" asp-route-id="@customer.id">Edit</a>
+                            @* Second way write routes *@
+                            <a class="btn btn-sm btn-outline-danger" href="/Delete?id=@customer.id">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

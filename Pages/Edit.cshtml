@@ -1,0 +1,69 @@
+@page
+@model Shere_Market.Pages.Edit
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-8 mx-auto rounded border p-4">
+        <h2 class="text-center mb-5">Update Data</h2>
+        @if (Model.ErrorMessage.Length > 0)
+        {
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                <strong>@Model.ErrorMessage</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+        <form method="post">
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Name*</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="name" />
+                    <span asp-validation-for="name" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Quantity*</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="quantity" />
+                    <span asp-validation-for="quantity" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Brokerage*</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="brokerage" />
+                    <span asp-validation-for="brokerage" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Price*</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="price" />
+                    <span asp-validation-for="price" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Trade Type</label>
+                <div class="col-sm-8">
+                    <select class="form-control" asp-for="tradeType">
+                        <option value="">-- Select Trade Type --</option>
+                        <option value="Buy">Buy</option>
+                        <option value="Sell">Sell</option>
+                    </select>
+                    <span asp-validation-for="tradeType" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="offset-sm-4 col-sm-4 d-grid">
+                    <button type="submit" class="btn btn-primary">Edit</button>
+                </div>
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-outline-primary" href="/Index" role="button">Cancel</a>
+                </div>
+            </div>
+        </form>
+    </div>

@@ -1,0 +1,145 @@
+D:\dotnet\Shere Market\bin\Debug\net9.0\appsettings.Development.json
+D:\dotnet\Shere Market\bin\Debug\net9.0\appsettings.json
+D:\dotnet\Shere Market\bin\Debug\net9.0\Shere Market.staticwebassets.runtime.json
+D:\dotnet\Shere Market\bin\Debug\net9.0\Shere Market.staticwebassets.endpoints.json
+D:\dotnet\Shere Market\bin\Debug\net9.0\Shere Market.exe
+D:\dotnet\Shere Market\bin\Debug\net9.0\Shere Market.deps.json
+D:\dotnet\Shere Market\bin\Debug\net9.0\Shere Market.runtimeconfig.json
+D:\dotnet\Shere Market\bin\Debug\net9.0\Shere Market.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Shere Market.pdb
+D:\dotnet\Shere Market\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\dotnet\Shere Market\obj\Debug\net9.0\Shere Market.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Shere Market\obj\Debug\net9.0\Shere Market.AssemblyInfoInputs.cache
+D:\dotnet\Shere Market\obj\Debug\net9.0\Shere Market.AssemblyInfo.cs
+D:\dotnet\Shere Market\obj\Debug\net9.0\Shere Market.csproj.CoreCompileInputs.cache
+D:\dotnet\Shere Market\obj\Debug\net9.0\Shere Market.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\Shere Market\obj\Debug\net9.0\Shere Market.RazorAssemblyInfo.cache
+D:\dotnet\Shere Market\obj\Debug\net9.0\Shere Market.RazorAssemblyInfo.cs
+D:\dotnet\Shere Market\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\dotnet\Shere Market\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\dotnet\Shere Market\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\dotnet\Shere Market\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\dotnet\Shere Market\obj\Debug\net9.0\scopedcss\bundle\Shere Market.styles.css
+D:\dotnet\Shere Market\obj\Debug\net9.0\scopedcss\projectbundle\Shere Market.bundle.scp.css
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\gunc7mf3rz-b9sayid5wm.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\c0fd8liqim-61n19gt1b8.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\26c3b4pkp2-xtxxf3hu2r.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\m9xmg2gty2-bqjiyaj88i.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\2qxrc5vjf4-c2jlpeoesf.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\vtf4y96fh0-erw9l3u2r3.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\ewa4kbtu66-aexeepp0ev.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\3kd8w06ff7-d7shbmvgxk.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\ry786z13pf-ausgxo2sd3.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\e77f61glpj-k8d9w2qqmf.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\1wxm8t9yvt-cosvhxvwiu.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\5zi14g7flf-ub07r2b239.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\juoz07ki0z-fvhpjtyr6v.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\qc2ytspn47-b7pk76d08c.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\euulkinkj8-fsbi9cje9m.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\yie0efub20-rzd6atqjts.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\oia9u045tg-ee0r1s7dh0.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\ty5igr9cpb-dxx9fxp4il.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\xh127c3xnb-jd9uben2k1.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\4r166i94zd-khv3u5hwcm.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\0ybjzr0hp4-r4e9w2rdcm.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\47spcn1tvg-lcd1t2u6c8.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\tu2ytfa14m-c2oey78nd0.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\fhhtj0p78n-tdbxkamptv.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\kt0nuj86ot-j5mq2jizvt.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\yrslphwd0x-06098lyss8.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\5nudp4ojz3-nvvlpmu67g.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\90c0azogmf-s35ty4nyc5.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\z5v1y436j1-pj5nd1wqec.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\lcn79m88uh-46ein0sx1k.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\xzd9w1k0o6-v0zj4ognzu.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\i3h1tuut31-37tfw0ft22.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\09rtisolex-hrwsygsryq.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\s9fji6zxlv-pk9g2wxc8p.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\wt1x4cs4f9-ft3s53vfgj.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\ph620a5oy4-6cfz1n2cew.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\58nwrer1lk-6pdc2jztkx.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\9wme6wmjqa-493y06b0oq.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\3zvdymvnry-iovd86k7lj.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\cwxstlrqz2-vr1egmr9el.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\wfacxar0d8-kbrnm935zg.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\q2a1pybte7-jj8uyg4cgr.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\mx1465ef28-y7v9cxd14o.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\hdq4zii6n6-notf2xhcfb.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\2el56cn9s7-h1s4sie4z3.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\tyg5j5btuf-63fj8s7r0e.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\0hbcoji0e0-0j3bgjxly4.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\yi5qg79rq8-47otxtyo56.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\k6wo7udcfk-4v8eqarkd7.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\odgdzgr1p8-356vix0kms.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\kge9pd9lb6-83jwlth58m.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\357524m97m-mrlpezrjn3.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\4oxjvy1zee-lzl9nlhx6b.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\5dtxzrz9r2-ag7o75518u.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\9fxb65f7yz-x0q3zqp4vz.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\l0fm69ewoe-0i3buxo5is.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\mymlxzgq7h-o1o13a6vjx.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\mz3r0rrpb0-ttgo8qnofa.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\87zbweam70-2z0ns9nrw6.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\emdjrz757w-muycvpuwrr.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\9m40o7p20k-87fc7y1x7t.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\fpprkpanto-mlv21k5csn.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\xdi8wkopj1-0x080sgnbo.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\compressed\jop5x8p8sr-0x080sgnbo.gz
+D:\dotnet\Shere Market\obj\Debug\net9.0\staticwebassets.build.json
+D:\dotnet\Shere Market\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\dotnet\Shere Market\obj\Debug\net9.0\staticwebassets.development.json
+D:\dotnet\Shere Market\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\dotnet\Shere Market\obj\Debug\net9.0\Shere Market.dll
+D:\dotnet\Shere Market\obj\Debug\net9.0\refint\Shere Market.dll
+D:\dotnet\Shere Market\obj\Debug\net9.0\Shere Market.pdb
+D:\dotnet\Shere Market\obj\Debug\net9.0\Shere Market.genruntimeconfig.cache
+D:\dotnet\Shere Market\obj\Debug\net9.0\ref\Shere Market.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Azure.Core.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Azure.Identity.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\System.ClientModel.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\System.Memory.Data.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\dotnet\Shere Market\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\dotnet\Shere Market\obj\Debug\net9.0\Shere Market.csproj.AssemblyReference.cache
+D:\dotnet\Shere Market\obj\Debug\net9.0\Shere Ma.3334C7AB.Up2Date
